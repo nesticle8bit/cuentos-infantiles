@@ -1,0 +1,41 @@
+# ─── Archivos de audio (binarios grandes) ─────────────────────────────────────
+cuentos/
+
+# ─── Variables de entorno (credenciales) ──────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ─── Node.js ──────────────────────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# ─── Backend (api/) ───────────────────────────────────────────────────────────
+api/node_modules/
+api/covers/
+
+# ─── Frontend (frontend/) ─────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/tmp/
+frontend/out-tsc/
+frontend/coverage/
+frontend/.sass-cache/
+frontend/connect.lock
+frontend/libpeerconnection.log
+frontend/testem.log
+
+# ─── Claude Code ──────────────────────────────────────────────────────────────
+.claude/
+
+# ─── Sistema operativo ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDEs ─────────────────────────────────────────────────────────────────────
+.idea/
+*.sublime-workspace
+.history/
