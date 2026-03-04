@@ -2,6 +2,8 @@
 
 Una aplicación web para escuchar cuentos infantiles, hecha con amor para que Helena los disfrute por las noches.
 
+<img width="1920" height="893" alt="image" src="https://github.com/user-attachments/assets/9d1d4e48-dc96-44e0-ae65-6c6b3fdc2185" />
+
 ## ¿Qué es esto?
 
 Reproductor de cuentos infantiles en formato FLAC con:
